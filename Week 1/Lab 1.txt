@@ -1,0 +1,16 @@
+Using the attached .cpp from lab, alter the function bodies of 
+
+int R(int x, int y);
+int G(int x, int y);
+int B(int x, int y);
+
+to create a pretty picture using any arithmetic operators that 
+you think would be fun. Some examples of operators you could use
+are +, -, *, /, %, sqrt, pow, etc. To see this picture, you will 
+have  to correctly install and configure putty and xming (on PC) 
+or use ssh -X in the terminal (on mac).
+
+In the lab Dropbox in D2L, please do not submit your .cpp file;
+.cpp files will get no credit. Rather, turn in a picture of the 
+output of your code. You may use any reasonable graphics exentsion 
+(.jpg, .png, .bmp, etc.). Have fun!!!

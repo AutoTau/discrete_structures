@@ -1,0 +1,11 @@
+This week, you'll prove that NAND is functionally complete.
+
+To begin, Wikipedia defines the term "functionally complete" as follows:
+In logic, a functionally complete set of logical connectives or Boolean operators is one which can be used to express all possible truth tables by combining members of the set into a Boolean expression.
+
+What the above statement is saying is that ANY logical operator can be expressed using only the functionally complete operator. Some examples will be helpful here. Let's say that you wanted to express the AND and IMPLICATION operators in terms of only OR and NOT
+
+P AND Q = ~(~P OR ~Q)
+P -> Q = ~P OR Q
+
+This week's proof will be in two parts. First, you will prove that the set of logical operators {AND, OR, NOT} is functionally complete. That is, you'll prove that ALL 16 binary logical operators can be written in terms of only these three. Secondly, you'll prove that each of AND, OR, NOT can be written in terms of NAND. Conclude by explaining why this shows that NAND is functionally complete. Good luck!!!
